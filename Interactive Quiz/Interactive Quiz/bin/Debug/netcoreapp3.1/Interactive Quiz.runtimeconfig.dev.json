@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Beru\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Beru\\.nuget\\packages"
+    ]
+  }
+}
